@@ -1,7 +1,0 @@
-C:\Users\Lenovo\source\repos\PDB_2\obj\Debug\PDB_2.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\source\repos\PDB_2\bin\Debug\PDB_2.exe.config
-C:\Users\Lenovo\source\repos\PDB_2\bin\Debug\PDB_2.exe
-C:\Users\Lenovo\source\repos\PDB_2\bin\Debug\PDB_2.pdb
-C:\Users\Lenovo\source\repos\PDB_2\obj\Debug\PDB_2.exe
-C:\Users\Lenovo\source\repos\PDB_2\obj\Debug\PDB_2.pdb
-C:\Users\Lenovo\source\repos\PDB_2\obj\Debug\PDB_2.csproj.AssemblyReference.cache
